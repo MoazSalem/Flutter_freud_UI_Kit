@@ -124,7 +124,7 @@ jobs:
         run: flutter pub get
 
       - name: Build Flutter Web
-        run: flutter build web --release --base-href /Flutter_freud_UI_Kit/
+        run: flutter build web --release --base-href /freud-ui-kit-flutter/
 
       - name: Deploy to hosted_web_version branch
         run: |
