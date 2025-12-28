@@ -31,8 +31,8 @@ While the design is primarily mobile-focused, I’m working to make the layout *
 - 🎨 **Stunning design** based on Freud UI Kit (Figma)
 - 🔧 **Custom hand-crafted widgets** and animations
 - 📏 **Responsive UI** that adapts to different screen sizes
-- 🌍 **Device preview support** when running the [web version](https://moazsalem.github.io/Flutter_freud_UI_Kit/)
-- 🚀 **Precompiled APKs** in [Releases](#-releases) for quick access
+- 🌍 **Device preview support** when running the [web version](https://moazsalem.github.io/freud-ui-kit-flutter/)
+- 🚀 **Precompiled APKs** in [Releases](https://github.com/MoazSalem/freud-ui-kit-flutter/releases) for quick access
 
 ---
 
@@ -91,9 +91,9 @@ This lets you simulate multiple screen types inside the browser.
 
 ## 📦 Releases
 
-You can try the [Web version here](https://moazsalem.github.io/Flutter_freud_UI_Kit/) 
+You can try the [Web version here](https://moazsalem.github.io/freud-ui-kit-flutter/) 
 
-or You can download the latest APK builds from the [Releases](https://github.com/MoazSalem/Flutter_freud_UI_Kit/releases) section.
+or You can download the latest APK builds from the [Releases](https://github.com/MoazSalem/freud-ui-kit-flutter/releases) section.
 
 This makes it easy for others to test the app without building it locally.
 
